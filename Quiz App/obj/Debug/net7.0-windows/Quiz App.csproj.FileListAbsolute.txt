@@ -1,0 +1,31 @@
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\bin\Debug\net7.0-windows\Quiz App.exe
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\bin\Debug\net7.0-windows\Quiz App.deps.json
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\bin\Debug\net7.0-windows\Quiz App.runtimeconfig.json
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\bin\Debug\net7.0-windows\Quiz App.dll
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\bin\Debug\net7.0-windows\Quiz App.pdb
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\obj\Debug\net7.0-windows\Quiz App_MarkupCompile.cache
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\obj\Debug\net7.0-windows\Quiz App.g.resources
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\obj\Debug\net7.0-windows\Quiz App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\obj\Debug\net7.0-windows\Quiz App.AssemblyInfoInputs.cache
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\obj\Debug\net7.0-windows\Quiz App.AssemblyInfo.cs
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\obj\Debug\net7.0-windows\Quiz App.csproj.CoreCompileInputs.cache
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\obj\Debug\net7.0-windows\Quiz App.dll
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\obj\Debug\net7.0-windows\refint\Quiz App.dll
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\obj\Debug\net7.0-windows\Quiz App.pdb
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\obj\Debug\net7.0-windows\Quiz App.genruntimeconfig.cache
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\obj\Debug\net7.0-windows\ref\Quiz App.dll
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\obj\Debug\net7.0-windows\Play.g.cs
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\obj\Debug\net7.0-windows\Play.baml
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\obj\Debug\net7.0-windows\highscores.baml
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\obj\Debug\net7.0-windows\highscores.g.cs
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\obj\Debug\net7.0-windows\Quiz.baml
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\obj\Debug\net7.0-windows\Quiz.g.cs
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\obj\Debug\net7.0-windows\Quiz2.baml
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\obj\Debug\net7.0-windows\Quiz3.baml
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\obj\Debug\net7.0-windows\Quiz4.baml
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\obj\Debug\net7.0-windows\Quiz2.g.cs
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\obj\Debug\net7.0-windows\Quiz3.g.cs
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\obj\Debug\net7.0-windows\Quiz4.g.cs
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\obj\Debug\net7.0-windows\EndScreen.baml
+C:\Users\ZeldrisOW\source\repos\Quiz App\Quiz App\obj\Debug\net7.0-windows\EndScreen.g.cs

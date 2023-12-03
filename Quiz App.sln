@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Quiz App", "Quiz App\Quiz App.csproj", "{878079C9-4D15-4383-8577-00B0150EA741}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{6CF9E525-AB5C-49D7-A4D0-BEF8A50CCAEB}"
+	ProjectSection(SolutionItems) = preProject
+		HighScoreManager.cs = HighScoreManager.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{878079C9-4D15-4383-8577-00B0150EA741}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{878079C9-4D15-4383-8577-00B0150EA741}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{878079C9-4D15-4383-8577-00B0150EA741}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{878079C9-4D15-4383-8577-00B0150EA741}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {422674E0-B2CF-41D3-956C-DCF54D51E545}
+	EndGlobalSection
+EndGlobal

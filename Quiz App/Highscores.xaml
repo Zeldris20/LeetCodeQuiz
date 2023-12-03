@@ -1,0 +1,40 @@
+﻿<!-- highscores.xaml -->
+
+<Window x:Class="Quiz_App.Highscores"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="High Scores" Height="450" Width="800">
+    <Grid Background="#000000">
+        <TextBox HorizontalAlignment="Left"
+                 VerticalAlignment="Top"
+                 Margin="215,10,0,0"
+                 TextWrapping="Wrap"
+                 Text="Leaderboard&#xD;&#xA;"
+                 Width="417"
+                 FontSize="36"
+                 Background="#000000"
+                 Foreground="#FFFFFF"
+                 BorderBrush="Transparent"
+                 BorderThickness="0"/>
+        <Button Content="Back to Main"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Margin="215,263,0,0"
+            Width="242"
+            FontSize="24" Background="#0000FF" Click="Button_Click"/>
+        <TextBox x:Name="Username" HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            Margin="208,106,0,0"
+            TextWrapping="Wrap"
+            Text=" "
+            Width="417"
+            FontSize="36"
+            Background="#000000"
+            Foreground="#FFFFFF"
+            BorderBrush="Transparent"
+            BorderThickness="0" TextChanged="TextBox_TextChanged"/>
+    </Grid>
+</Window>
